@@ -3,7 +3,7 @@
     <div class="px-4 2xl:px-0 max-w-[1280px] mx-auto pt-24 pb-36">
       <div class="flex justify-between items-start">
         <!-- Left -->
-        <div class="flex flex-col justify-between w-7/12 self-stretch">
+        <div data-aos="fade-right" data-aos-duration="1500" class="flex flex-col justify-between w-7/12 self-stretch">
           <div class="w-1/2 h-full flex flex-col justify-between items-start">
             <div>
               <h3 class="flex justify-start items-center space-x-2 text-gray-light mb-2">
@@ -25,7 +25,7 @@
           </div>
         </div>
         <!-- right -->
-        <div class="w-5/12 pl-8">
+        <div data-aos="fade-left" data-aos-duration="1500" class="w-5/12 pl-8">
           <h3 class="text-4xl mb-6">You can’t use up creativity, the more you use, more you have in your significsnt mind.</h3>
           <p class="text-gray-light mb-10 pr-24">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
 

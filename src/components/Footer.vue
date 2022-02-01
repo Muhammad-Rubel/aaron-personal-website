@@ -4,7 +4,7 @@
       <!-- Text & form -->
       <div class="flex justify-between items-start">
         <!-- text -->
-        <div class="">
+        <div data-aos="fade-right" data-aos-duration="1500" class="">
           <div class="w-2/3">
             <div>
               <h3 class="text-4xl">All Creative Works, Selected projects.</h3>
@@ -19,7 +19,7 @@
         </div>
 
         <!-- input -->
-        <div>
+        <div data-aos="fade-left" data-aos-duration="1500">
           <h3 class="text-4xl w-2/3 mb-12">All Creative Works, Selected projects.</h3>
 
           <form action="" class="space-y-10">

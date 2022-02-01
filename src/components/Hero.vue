@@ -1,7 +1,7 @@
 <template>
   <section class="px-4 2xl:px-0 max-w-[1280px] mx-auto relative">
     <!-- image -->
-    <div class="w-full flex justify-center items-start">
+    <div data-aos="fade-up" data-aos-duration="1500" class="w-full flex justify-center items-start">
       <img src="@/assets/images/profile-image-resize.png" alt="" class="" />
     </div>
 
@@ -9,7 +9,7 @@
       <!-- name -->
       <div class="flex">
         <!-- name -->
-        <div class="w-8/12">
+        <div data-aos="fade-right" data-aos-duration="1500" class="w-8/12">
           <div>
             <h1 class="flex justify-start items-start flex-col text-8xl font-bold">
               <span>Aaron</span>
@@ -27,7 +27,7 @@
         </div>
 
         <!-- introduction -->
-        <div class="w-4/12 flex-grow flex flex-col justify-between pl-10">
+        <div data-aos="fade-left" data-aos-duration="1500" class="w-4/12 flex-grow flex flex-col justify-between pl-10">
           <div>
             <h2 class="flex justify-start items-center space-x-2 text-gray-light mb-2">
               <span
